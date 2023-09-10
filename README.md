@@ -1,5 +1,5 @@
 ## Basic structure of a flask application
 
-pattern : MVC
-language : Python 3.9
+pattern : MVC <br>
+language : Python 3.9 <br> 
 database : Sqlite
